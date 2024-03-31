@@ -1,12 +1,14 @@
 # How to Run the Node.js Project
 
-This project demonstrates searching for any movies for that you want to write a review or view reviews of the movie.
+This project demonstrates inserting book records in the application. You can operate CRUD operations in this application. There application has two types of viewing options, card style and table style.
 
 ## Prerequisites
 
 Before you start, make sure you have the following installed:
 
 - Node.js (https://nodejs.org)
+- Change PORT number if the PORT is busy.
+- Change MongoDB username and password to your own or use your own MONGODB url.
   
 ## Installation
 
@@ -25,4 +27,3 @@ Before you start, make sure you have the following installed:
    cd <frontend file url inside this project directory>
    npm  install
    npm run dev
-
